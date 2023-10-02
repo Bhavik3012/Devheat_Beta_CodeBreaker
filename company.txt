@@ -1,0 +1,42 @@
+<html>
+<head>
+<meta content="text/html; charset=ISO-8859-1"
+http-equiv="content-type">
+<title>company selection</title>
+</head>
+<body>
+<table style="text-align: left; width: 1595px; height: 711px;"
+border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td style="vertical-align: top;">
+<form method="post" action="https" name="company "><input
+name="company " value="Company type ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<select name="Companies ">
+<option>Tech Companies </option>
+<option>Non-tech Companies</option>
+</select>
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input name="Submit " value="Submit " type="submit">&nbsp;&nbsp;&nbsp;
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</form>
+<br>
+</td>
+</tr>
+</tbody>
+</table>
+<br>
+</body>
+</html>
